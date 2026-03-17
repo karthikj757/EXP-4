@@ -41,6 +41,13 @@ Half wave rectifier with filter:<img width="1919" height="1020" alt="exp4 2 beee
 
 Bridge rectifier without filter:<img width="1918" height="1020" alt="exp4 3 BEEE" src="https://github.com/user-attachments/assets/718b6c5e-5977-4502-af99-69358e2532e9" />
 Bridge rectifier with filter:<img width="1919" height="1020" alt="exp4 4 beee" src="https://github.com/user-attachments/assets/2a77c295-2cb2-4a78-b87e-d826893ea886" />
+TABULAR COLUMN
+Half Rectifier:
+![WhatsApp Image 2026-03-17 at 8 27 26 PM](https://github.com/user-attachments/assets/825752b2-b39c-4baf-9ad7-5994577120fe)
+
+
+Full Rectifier:
+![WhatsApp Image 2026-03-17 at 8 27 54 PM](https://github.com/user-attachments/assets/08dc47bc-da25-42d8-ad49-4161dd98e852)
 
 RESULT:
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
